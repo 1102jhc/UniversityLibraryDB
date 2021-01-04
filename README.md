@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/1102jhc/Youtube-Crawler)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/1102jhc/UniversityLibraryDB)
 
 본 프로젝트는 유한대학교 도서관의 다양한 기능을 하나의 시스템으로 통합하여 관리하는 도서 관리 시스템 개발을 목표로 합니다. 자료 관리, 대출 관리, 시설 관리, 회원 관리를 하며 하나의 시스템으로 통합하여 편리하게 사용하도록 합니다. 또한 디지털 컨텐츠를 효율적으로 관리하기 위한 환경을 구축합니다.
 
